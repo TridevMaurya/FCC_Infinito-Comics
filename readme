@@ -1,76 +1,35 @@
-# 🚀 Infinito Comics - Merchandise Launch Strategy & Financial Model
+# 🚀 Infinito Comics: Merchandise Launch Strategy & Financial Model
 
-**Consultancy Project | Finance and Consulting Club (FCC), NIT Raipur**
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-Strategy_Consultant-blue?style=for-the-badge)
+![Organization](https://img.shields.io/badge/Org-FCC_NIT_Raipur-orange?style=for-the-badge)
 
-## 📌 Project Overview
-This project involves a comprehensive **Go-to-Market (GTM) strategy** and **Financial Feasibility Analysis** for **Infinito Comics**, India’s first tech-driven, culturally inspired superhero franchise.
-
-As part of the **Finance and Consulting Club (FCC)** at NIT Raipur, we acted as consultants to design a roadmap for launching their exclusive merchandise line. The project bridges the gap between creative storytelling and sustainable revenue generation.
-
----
-
-## 🏢 About the Client: Infinito Comics
-* **Domain:** Entertainment, Comics, AR/VR, Animation.
-* **USP:** Tech-driven storytelling using AI, Agent-Based Modeling (ABM), and immersive experiences.
-* **Asset Base:** 2500+ unique characters rooted in Indian values with global appeal.
+<div align="center">
+  <img src="https://via.placeholder.com/1000x300?text=Infinito+Comics+Project+Banner" alt="Project Banner" width="100%">
+  <p><em>Strategic Roadmap and Financial Forecasting for India's First Tech-Driven Superhero Franchise.</em></p>
+</div>
 
 ---
 
-## 📂 Repository Contents
-This repository contains the strategic and financial assets developed for the client:
+## 📖 Project Overview
 
-1.  **Financial Model (`.xlsx` / `.csv`)**: A dynamic revenue forecasting model predicting sales over a 24-month period.
-2.  **Strategy Deck (`.pptx`)**: A comprehensive presentation covering market research, competitive benchmarking, and risk assessment.
+**Client:** [Infinito Comics](https://infinitocomics.com)  
+**Domain:** Entertainment (Comics, AR/VR, Animation)  
+**Timeline:** 2024-2025
 
----
+As part of the **Finance and Consulting Club (FCC)** at NIT Raipur, this project involved designing a comprehensive **Go-To-Market (GTM) strategy** for Infinito Comics' new merchandise line. The goal was to bridge the gap between creative storytelling (2500+ characters) and sustainable revenue generation.
 
-## 📊 Key Deliverables
-
-### 1. Financial Modeling & Forecasting
-We developed a robust financial model to estimate profitability and cash flow.
-* **Revenue Forecast:** Projected monthly revenue for **24 months (July 2025 - June 2027)**.
-* **Pricing Strategy:** Defined tiered pricing for merchandise:
-    * *Low Tier:* ₹500
-    * *Mid Tier:* ₹900
-    * *Premium Tier:* ₹1,500
-* **Key Metrics Tracked:**
-    * Average Order Value (AOV): **₹930**
-    * Customer Acquisition Cost (CAC) & Cost Per Click.
-    * Growth Rate (MoM) & Churn Rate analysis.
-* **Break-Even Analysis:** Calculated the estimated **Break-Even Point (BEP)** (Projected: March 2027) to guide investment decisions.
-
-### 2. Strategic Consulting (Marketing & Operations)
-* **Market Research:** Conducted GenZ surveys to gauge interest in "Indian Superheroes" vs. Global giants (Marvel/DC).
-* **Competitive Benchmarking:** Analyzed competitors like *Tinkle*, *Raj Comics*, and *Graphic India*.
-* **4Ps of Marketing:**
-    * *Product:* Apparel designs based on character popularity.
-    * *Price:* Competitive entry pricing to capture market share.
-    * *Place:* Omnichannel approach (Online D2C + Offline Events).
-    * *Promotion:* Influencer marketing and Campus Ambassador programs.
-* **Risk Assessment:** Identified operational risks (Inventory, Logistics) and proposed mitigation strategies (Vendor Management protocols).
+> **Mission:** To position Infinito Comics as a premium yet accessible brand, leveraging "Indian Superheroes" to capture the GenZ market against global giants like Marvel & DC.
 
 ---
 
-## 🛠️ Tools & Technologies Used
-* **Microsoft Excel:** Advanced financial modeling, Sensitivity Analysis, Forecasting.
-* **Microsoft Power BI / Tableau:** Used for preliminary data visualization (if applicable).
-* **Microsoft PowerPoint:** Client presentation and strategy visualization.
-* **Primary Research:** Surveys and Interviews.
+## 📂 Repository Structure
 
----
-
-## 📈 Impact
-* Delivered a clear **Launch Roadmap** reducing ambiguity in the go-to-market phase.
-* Established a financial framework helping the startup understand their **cash burn rate** and **profitability timeline**.
-* Identified high-value customer segments through data-driven **customer personas**.
-
----
-
-## 📝 Credits
-* **Organization:** Finance and Consulting Club (FCC), NIT Raipur
-* **Role:** Student Consultant / Project Lead
-* **Team Members:** [Add Team Member Names Here]
-
----
-
-*Disclaimer: This project is for educational and portfolio purposes, based on data and scenarios worked upon during the consultancy tenure.*
+```bash
+├── 📁 Financial Model
+│   ├── Infinito Comics FM Revenue Forecast Updated.xlsx  # Master Financial Model
+│   ├── Revenue Forecast.csv                              # Raw Data: Revenue Projections
+│   └── Inputs and Assumptions.csv                        # Raw Data: Unit Economics
+├── 📁 Strategy Deck
+│   └── Infinito Template (1).pptx                        # Comprehensive GTM Presentation
+└── README.md
