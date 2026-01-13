@@ -1,35 +1,29 @@
-# 🚀 Infinito Comics: Merchandise Launch Strategy & Financial Model
-
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Role](https://img.shields.io/badge/Role-Strategy_Consultant-blue?style=for-the-badge)
-![Organization](https://img.shields.io/badge/Org-FCC_NIT_Raipur-orange?style=for-the-badge)
-
 <div align="center">
-  <img src="https://via.placeholder.com/1000x300?text=Infinito+Comics+Project+Banner" alt="Project Banner" width="100%">
-  <p><em>Strategic Roadmap and Financial Forecasting for India's First Tech-Driven Superhero Franchise.</em></p>
+
+# ⚡ Infinito Comics: GTM Strategy & Financial Model
+
+### *Consultancy Project | Finance & Consulting Club (FCC), NIT Raipur*
+
+[![Status](https://img.shields.io/badge/Status-Delivered-success?style=for-the-badge)]()
+[![Focus](https://img.shields.io/badge/Focus-Strategy_%26_Finance-blue?style=for-the-badge)]()
+[![Tools](https://img.shields.io/badge/Tools-Excel_%7C_PowerPoint-lightgrey?style=for-the-badge)]()
+
+<br />
+
+<p align="center">
+  <b>Transforming a 2500+ character superhero universe into a profitable D2C brand.</b><br>
+  Designed the complete Go-To-Market roadmap and 24-month revenue forecast for <a href="https://infinitocomics.com">Infinito Comics</a>.
+</p>
+
+[View Financial Model 📊](#-financial-architecture) • [View Strategy Deck 🧠](#-strategic-roadmap)
+
 </div>
 
 ---
 
-## 📖 Project Overview
-
-**Client:** [Infinito Comics](https://infinitocomics.com)  
-**Domain:** Entertainment (Comics, AR/VR, Animation)  
-**Timeline:** 2024-2025
-
-As part of the **Finance and Consulting Club (FCC)** at NIT Raipur, this project involved designing a comprehensive **Go-To-Market (GTM) strategy** for Infinito Comics' new merchandise line. The goal was to bridge the gap between creative storytelling (2500+ characters) and sustainable revenue generation.
-
-> **Mission:** To position Infinito Comics as a premium yet accessible brand, leveraging "Indian Superheroes" to capture the GenZ market against global giants like Marvel & DC.
-
----
-
-## 📂 Repository Structure
+## 📂 Project Repository
 
 ```bash
-├── 📁 Financial Model
-│   ├── Infinito Comics FM Revenue Forecast Updated.xlsx  # Master Financial Model
-│   ├── Revenue Forecast.csv                              # Raw Data: Revenue Projections
-│   └── Inputs and Assumptions.csv                        # Raw Data: Unit Economics
-├── 📁 Strategy Deck
-│   └── Infinito Template (1).pptx                        # Comprehensive GTM Presentation
-└── README.md
+├── 📄 Infinito Template.pptx            # 🚀 THE STRATEGY (Market Research, 4Ps, Risk)
+├── 📊 Infinito Revenue Forecast.xlsx    # 📈 THE BRAIN (Revenue, Churn, Sensitivity)
+└── 📄 README.md                         # 📌 You are here
